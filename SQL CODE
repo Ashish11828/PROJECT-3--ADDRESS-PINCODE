@@ -1,0 +1,2 @@
+select distinct address_pincode
+from Orders;
